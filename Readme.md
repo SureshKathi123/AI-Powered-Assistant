@@ -30,7 +30,7 @@ It can take **voice commands**, **interact with AI for conversational responses*
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/AI-Powered-Assistant.git
-   cd AI-Powered-YouTube-Assistant
+   cd AI-Powered-Assistant
 Install dependencies:
 
 bash
