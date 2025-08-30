@@ -1,4 +1,4 @@
-# AI-Powered YouTube Assistant
+# AI-Powered Assistant
 
 ## 📌 Overview
 AI-Powered YouTube Assistant is a Python-based **voice-controlled assistant** that integrates with **OpenAI’s GPT models** and **speech recognition** to simulate a smart personal assistant.  
